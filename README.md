@@ -39,6 +39,7 @@
 
 https://allthingsliberty.com/2021/05/a-reconsideration-of-continental-army-numerical-strength-at-valley-forge/
 
+![image info](./Chart1.PNG)
 
     
 <span id="fn1">1. Erna Risch, Supplying Washington's Army, (Washington, D.C.: Center of Military History, United States Army, 1981), 191.</span>
@@ -86,6 +87,8 @@ https://allthingsliberty.com/2021/05/a-reconsideration-of-continental-army-numer
     - 25LB at 15.54 dollars
 - **DOS army**
     - 250,000LB at 3,885,000 dollars
+
+![image info](./Chart2.PNG)
 
 <span id="fn13">13. Erna Risch, Supplying Washington's Army, (Washington, D.C.: Center of Military History, United States Army, 1981), 100.<sup>13</sup>
    
