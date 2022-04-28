@@ -39,7 +39,7 @@
 
 https://allthingsliberty.com/2021/05/a-reconsideration-of-continental-army-numerical-strength-at-valley-forge/
 
-![image info](./Chart1.PNG)
+![image info1](./Chart1.PNG)
 
     
 <span id="fn1">1. Erna Risch, Supplying Washington's Army, (Washington, D.C.: Center of Military History, United States Army, 1981), 191.</span>
@@ -88,7 +88,8 @@ https://allthingsliberty.com/2021/05/a-reconsideration-of-continental-army-numer
 - **DOS army**
     - 250,000LB at 3,885,000 dollars
 
-![image info](./Chart2.PNG)
+![image info2](./Chart2.PNG)
+![image info3](./Chart3.PNG)
 
 <span id="fn13">13. Erna Risch, Supplying Washington's Army, (Washington, D.C.: Center of Military History, United States Army, 1981), 100.<sup>13</sup>
    
@@ -99,3 +100,7 @@ https://allthingsliberty.com/2021/05/a-reconsideration-of-continental-army-numer
 <span id="fn16">16.13. Erna Risch, Supplying Washington's Army, (Washington, D.C.: Center of Military History, United States Army, 1981), 109. </span>\
    
 <span id="fn17">17. http://www.generalatomic.com/AmericanHistory/evacuation_of_boston.html </span>
+ 
+ #### Deputy Quartennaster General Abeel paced 20 miles a day or face having their wages reduced. Congress set a fee of 30 shillings a day for a wagon, four horses, and driver.    [<sup>17</sup>](#fn18)
+
+<span id="fn18">18. Erna Risch, Supplying Washington's Army, (Washington, D.C.: Center of Military History, United States Army, 1981), 83</span>
